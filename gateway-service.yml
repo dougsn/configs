@@ -3,8 +3,6 @@ server:
 spring:
   cloud:
     gateway:
-      default-filters:
-        - name: LogFilter
       routes:
         - id: catalogRoute
           uri: lb://CATALOG-SERVICE
