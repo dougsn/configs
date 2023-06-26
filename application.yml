@@ -36,7 +36,6 @@ queue:
   serie-service: queue-serie-service
   catalog-serie-service: queue-catalog-serie-service
   catalog-movie-service: queue-catalog-movie-service
-  catalog-season_chapter-service: queue.catalog-season_chapter-service
   
 
 
